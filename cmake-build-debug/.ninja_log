@@ -1,0 +1,16 @@
+# ninja log v5
+3	1728	1713533859962230263	CMakeFiles/compression_library.dir/main.cpp.o	83832357ecd2f9ea
+3	50	1713098172037972367	CMakeFiles/compression_library.dir/BinaryStdIn.cpp.o	920779c1b49f4da3
+1728	1809	1713533860047459381	compression_library	66508f1d5deb98db
+1	122	1713534088491811884	build.ninja	79338166a6994d8f
+0	686	1713023176949119828	CMakeFiles/compression_library.dir/try1.cpp.o	583f8afa8c7d2e9d
+4	1207	1713534262368812993	CMakeFiles/compression_library.dir/main.cpp.o	83832357ecd2f9ea
+1208	1276	1713534262442262059	compression_library	66508f1d5deb98db
+3	1571	1713534702228778013	CMakeFiles/compression_library.dir/main.cpp.o	83832357ecd2f9ea
+1571	1642	1713534702304386096	compression_library	66508f1d5deb98db
+18	2162	1713534790066804351	CMakeFiles/compression_library.dir/main.cpp.o	83832357ecd2f9ea
+2163	2252	1713534790160754281	compression_library	66508f1d5deb98db
+2	6386	1713534881053934674	CMakeFiles/compression_library.dir/main.cpp.o	83832357ecd2f9ea
+6386	6541	1713534881218744300	compression_library	66508f1d5deb98db
+8	8806	1713534946149442758	CMakeFiles/compression_library.dir/main.cpp.o	83832357ecd2f9ea
+8806	8910	1713534946263861731	compression_library	66508f1d5deb98db

@@ -1,0 +1,3 @@
+/Users/ghady/CLionProjects/compression-library/cmake-build-debug/CMakeFiles/compression_library.dir
+/Users/ghady/CLionProjects/compression-library/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ghady/CLionProjects/compression-library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
